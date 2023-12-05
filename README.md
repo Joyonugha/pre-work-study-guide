@@ -1,2 +1,2 @@
-# pre-work-study-guide
+# prework-study-guide
 For my pre-work
